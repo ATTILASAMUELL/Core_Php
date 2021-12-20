@@ -1,2 +1,2 @@
 # Core_Php
-Famoso URL Amigável em php 
+Famosa URL Amigável em php 
